@@ -1,0 +1,71 @@
+#body{
+
+	margin:0px;
+	width:100%;
+	height: 5000px;
+	background: url('img/bg.jpg');
+	text-align: center;
+	
+}
+
+#prlx_lyr_1{
+
+	position:fixed;
+	background: url('img/parallax_bg1.png')0px 200px;
+	width: 100%;
+	height: 2000px;
+	
+
+
+}
+
+#prlx_lyr_2{
+
+	position: fixed;
+	padding-left:27%;
+	height: 200px;
+	width: 200px;
+
+	z-index: 1;
+	
+
+}
+
+#prlx_lyr_3{
+
+	position: absolute;
+	height: 1000px;
+	width: 400px;
+	z-index: 3;
+	margin-left: 5px;
+	margin-top: 10%;
+	
+
+}
+
+#prlx_lyr_4{
+
+	position: absolute;
+	margin-left: 5%;
+	height: 600px;
+	width: 400px;
+	margin-top: 10%;
+	z-index: 3;
+	
+
+}
+
+/*#prlx_lyr_3{
+
+	position:absolute;
+	background: url('img/parallax_bg2.png')no-repeat 400px 200px;
+	width: 80%;
+	float: right;
+	
+
+}*/
+
+#content{
+
+	;
+}
